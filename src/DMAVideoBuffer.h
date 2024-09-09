@@ -1,6 +1,6 @@
 
 #include <hal/dma_types.h>
-#include "spiram.h"
+#include "esp_psram.h"
 #include <rom/cache.h>
 #include <esp_heap_caps.h>
 
